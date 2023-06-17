@@ -1,3 +1,3 @@
 # Nepali Book
 
-Nepali book just a first repository built for tets purpose
+Nepali book just a first repository built for test purpose
